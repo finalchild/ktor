@@ -432,7 +432,6 @@ class ServerSentEventsTest : ClientLoader(timeoutSeconds = 120) {
         }
     }
 
-
     class Person(val name: String)
     class Data(val value: String)
 
